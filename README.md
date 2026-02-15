@@ -118,7 +118,7 @@ pip install pandas ollama
 
 ---
 
-## Team Notes
+## Notes
 
 - Always activate `align-env` before running scripts
 - Backup `outputs/outputs.csv` before re-running experiments
